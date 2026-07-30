@@ -2,7 +2,8 @@
 const nextConfig = {
   output: 'export',
   images: { unoptimized: true },
-  basePath: process.env.NODE_ENV === 'production' ? '/cafe-julia' : '',
+  basePath: '/cafe-julia',
+  assetPrefix: '/cafe-julia',
 };
 
 export default nextConfig;

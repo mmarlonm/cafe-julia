@@ -3,18 +3,18 @@
 import { motion } from "framer-motion";
 
 const steps = [
-  { n: "01", img: "/img/siembra.jpg", title: "Siembra", desc: "La semilla de Obata germina en almácigo, protegida hasta convertirse en plántula lista para el campo." },
-  { n: "02", img: "/img/cultivo.jpg", title: "Cultivo bajo sombra", desc: "Crece entre árboles nativos de Eloxochitlán; la altura y la sombra concentran los azúcares del grano." },
-  { n: "03", img: "/img/floracion.jpg", title: "Floración y fruto", desc: "El cafeto florece con aroma a jazmín y madura en cerezas rojas, listas para la cosecha." },
-  { n: "04", img: "/img/cosecha.jpg", title: "Cosecha a mano", desc: "Julia recolecta solo las cerezas maduras, una por una, para asegurar la máxima dulzura." },
-  { n: "05", img: "/img/despulpado.jpg", title: "Despulpado", desc: "Se retira la pulpa el mismo día, dejando el grano cubierto de mucílago." },
-  { n: "06", img: "/img/fermentacion.jpg", title: "Fermentación", desc: "El grano descansa y fermenta, revelando una taza limpia y de carácter." },
-  { n: "07", img: "/img/lavado.jpg", title: "Lavado y selección", desc: "Agua de manantial arrastra el mucílago; se escoge grano por grano." },
-  { n: "08", img: "/img/secado.jpg", title: "Secado al sol", desc: "En camas se seca lentamente hasta alcanzar su punto ideal de humedad." },
-  { n: "09", img: "/img/trilla.jpg", title: "Trilla", desc: "Se retira el pergamino dejando el grano verde de especialidad, listo para viajar." },
-  { n: "10", img: "/img/tostado.jpg", title: "Tostado", desc: "El maestro tostador despierta caramelo, chocolate y frutas del grano ganador." },
-  { n: "11", img: "/img/molienda.jpg", title: "Molienda", desc: "Molido en su punto justo, minutos antes de la extracción para conservar el aroma." },
-  { n: "12", img: "/img/servir.jpg", title: "Servir", desc: "La taza premiada de Puebla, lista para disfrutarse. Calidad en Taza 2026." },
+  { n: "01", img: "/cafe-julia/img/siembra.jpg", title: "Siembra", desc: "La semilla de Obata germina en almácigo, protegida hasta convertirse en plántula lista para el campo." },
+  { n: "02", img: "/cafe-julia/img/cultivo.jpg", title: "Cultivo bajo sombra", desc: "Crece entre árboles nativos de Eloxochitlán; la altura y la sombra concentran los azúcares del grano." },
+  { n: "03", img: "/cafe-julia/img/floracion.jpg", title: "Floración y fruto", desc: "El cafeto florece con aroma a jazmín y madura en cerezas rojas, listas para la cosecha." },
+  { n: "04", img: "/cafe-julia/img/cosecha.jpg", title: "Cosecha a mano", desc: "Julia recolecta solo las cerezas maduras, una por una, para asegurar la máxima dulzura." },
+  { n: "05", img: "/cafe-julia/img/despulpado.jpg", title: "Despulpado", desc: "Se retira la pulpa el mismo día, dejando el grano cubierto de mucílago." },
+  { n: "06", img: "/cafe-julia/img/fermentacion.jpg", title: "Fermentación", desc: "El grano descansa y fermenta, revelando una taza limpia y de carácter." },
+  { n: "07", img: "/cafe-julia/img/lavado.jpg", title: "Lavado y selección", desc: "Agua de manantial arrastra el mucílago; se escoge grano por grano." },
+  { n: "08", img: "/cafe-julia/img/secado.jpg", title: "Secado al sol", desc: "En camas se seca lentamente hasta alcanzar su punto ideal de humedad." },
+  { n: "09", img: "/cafe-julia/img/trilla.jpg", title: "Trilla", desc: "Se retira el pergamino dejando el grano verde de especialidad, listo para viajar." },
+  { n: "10", img: "/cafe-julia/img/tostado.jpg", title: "Tostado", desc: "El maestro tostador despierta caramelo, chocolate y frutas del grano ganador." },
+  { n: "11", img: "/cafe-julia/img/molienda.jpg", title: "Molienda", desc: "Molido en su punto justo, minutos antes de la extracción para conservar el aroma." },
+  { n: "12", img: "/cafe-julia/img/servir.jpg", title: "Servir", desc: "La taza premiada de Puebla, lista para disfrutarse. Calidad en Taza 2026." },
 ];
 
 export default function Process() {

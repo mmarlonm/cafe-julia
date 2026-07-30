@@ -22,12 +22,12 @@ export default function Winner() {
           className="relative grid grid-cols-2 gap-4"
         >
           <div className="space-y-4 pt-10">
-            <Photo src="/img/cosecha.jpg" alt="Cortando café a mano" h="h-56" />
-            <Photo src="/img/lavado.jpg" alt="Selección de cerezas" h="h-40" />
+            <Photo src="/cafe-julia/img/cosecha.jpg" alt="Cortando café a mano" h="h-56" />
+            <Photo src="/cafe-julia/img/lavado.jpg" alt="Selección de cerezas" h="h-40" />
           </div>
           <div className="space-y-4">
-            <Photo src="/img/people.jpg" alt="Recolección en el cafetal" h="h-40" />
-            <Photo src="/img/despulpado.jpg" alt="Cerezas recolectadas" h="h-56" />
+            <Photo src="/cafe-julia/img/people.jpg" alt="Recolección en el cafetal" h="h-40" />
+            <Photo src="/cafe-julia/img/despulpado.jpg" alt="Cerezas recolectadas" h="h-56" />
           </div>
           <div className="absolute -bottom-6 left-1/2 -translate-x-1/2 bg-gold text-espresso font-display text-lg px-6 py-2 rounded-full shadow-xl whitespace-nowrap">
             Hecho a mano en Puebla

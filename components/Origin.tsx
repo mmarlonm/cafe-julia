@@ -10,7 +10,7 @@ export default function Origin() {
     >
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img
-        src="/img/cultivo.jpg"
+        src="/cafe-julia/img/cultivo.jpg"
         alt="Cafetal de Eloxochitlán"
         className="absolute inset-0 h-full w-full object-cover"
       />

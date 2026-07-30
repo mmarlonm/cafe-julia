@@ -59,7 +59,7 @@ export default function Variety() {
         >
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src="/img/tostado.jpg"
+            src="/cafe-julia/img/tostado.jpg"
             alt="Granos de café Obata tostados"
             className="absolute inset-0 h-full w-full object-cover"
           />

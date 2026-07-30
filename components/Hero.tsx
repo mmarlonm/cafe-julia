@@ -22,7 +22,7 @@ export default function Hero() {
       <motion.div style={{ y, scale }} className="absolute inset-0">
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
-          src="/img/cosecha.jpg"
+          src="/cafe-julia/img/cosecha.jpg"
           alt="Cosecha de café en Eloxochitlán"
           className="w-full h-[120%] object-cover"
         />
@@ -117,7 +117,7 @@ export default function Hero() {
           <div className="absolute -inset-3 rounded-3xl bg-gold/30 blur-2xl" />
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src="/img/julia.png"
+            src="/cafe-julia/img/julia.png"
             alt="Julia Andrés Moreno, 1er lugar"
             className="relative rounded-3xl shadow-2xl shadow-black/50 border-4 border-cream/10"
           />

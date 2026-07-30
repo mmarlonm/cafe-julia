@@ -3,14 +3,14 @@
 import { motion } from "framer-motion";
 
 const imgs = [
-  "/img/cherries.jpg",
-  "/img/people.jpg",
-  "/img/branch.jpg",
-  "/img/tostado.jpg",
-  "/img/cluster.jpg",
-  "/img/cosecha.jpg",
-  "/img/molienda.jpg",
-  "/img/floracion.jpg",
+  "/cafe-julia/img/cherries.jpg",
+  "/cafe-julia/img/people.jpg",
+  "/cafe-julia/img/branch.jpg",
+  "/cafe-julia/img/tostado.jpg",
+  "/cafe-julia/img/cluster.jpg",
+  "/cafe-julia/img/cosecha.jpg",
+  "/cafe-julia/img/molienda.jpg",
+  "/cafe-julia/img/floracion.jpg",
 ];
 
 export default function Marquee() {
